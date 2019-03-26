@@ -1,0 +1,11 @@
+{
+  
+  "prices": [
+    { "id": 1, "title": "Start-Preis", "price": .4 },
+    { "id": 2, "title": "Preis pro Stunde", "price": .8 },
+    { "id": 3, "title": "Ladegebühr pro kWh", "price": .6 },
+    { "id": 4, "title": "Niedertarif pro kWh", "price": 0 },
+    { "id": 5, "title": "Hochtarif pro kWh", "price": 0 },
+
+  ]
+}
